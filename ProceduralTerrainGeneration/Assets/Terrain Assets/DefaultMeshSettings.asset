@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81eb04105e510914fa362529f90eb0ac, type: 3}
+  m_Name: DefaultMeshSettings
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  meshScale: 1
+  useFlatShading: 0
+  generateWater: 1
+  generateGrass: 1
+  grassObject: {fileID: 1162502825128595401, guid: 4d590b824d310ce428a04777558f0c21, type: 3}
+  amountOfGrass: 100
+  chunkSizeIndex: 3
+  FlatShadedChunkSizeIndex: 0
